@@ -7,4 +7,5 @@ function MultiMessage({ name, age, city }) {
     </div>
   );
 }
-  
+ 
+export default MultiMessage
